@@ -46,7 +46,6 @@ spec:
 """
         }
     }
-
     environment {
         ECR_REGISTRY = "339007232055.dkr.ecr.us-east-1.amazonaws.com"
         IMAGE_REPO = "my-ecr"
